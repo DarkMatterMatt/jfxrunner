@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="jfxrunner:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/jfxrunner_jar</output-path>
+    <root id="archive" name="jfxrunner.jar">
+      <element id="module-output" name="jfxrunner" />
+    </root>
+  </artifact>
+</component>
